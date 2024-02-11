@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskeTakip", "MaskeTakip\MaskeTakip.csproj", "{EB1A41A3-34CF-40CF-BAD8-37CF522DC8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{FA3C34CE-0AF4-415D-A25F-267968400771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{9A3254B9-4722-4BC1-A964-0ACCE5ECC662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1A41A3-34CF-40CF-BAD8-37CF522DC8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1A41A3-34CF-40CF-BAD8-37CF522DC8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1A41A3-34CF-40CF-BAD8-37CF522DC8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1A41A3-34CF-40CF-BAD8-37CF522DC8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3C34CE-0AF4-415D-A25F-267968400771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3C34CE-0AF4-415D-A25F-267968400771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3C34CE-0AF4-415D-A25F-267968400771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3C34CE-0AF4-415D-A25F-267968400771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3254B9-4722-4BC1-A964-0ACCE5ECC662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3254B9-4722-4BC1-A964-0ACCE5ECC662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3254B9-4722-4BC1-A964-0ACCE5ECC662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3254B9-4722-4BC1-A964-0ACCE5ECC662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC6AFA1-C438-4349-B0D9-0FD9736F7414}
+	EndGlobalSection
+EndGlobal
